@@ -1,5 +1,7 @@
 # Raspberry Pi Pico Usage Guide
 
+[![YouTube Video](https://img.youtube.com/vi/lGAiZ7O3Xu8/0.jpg)](https://youtube.com/shorts/lGAiZ7O3Xu8?feature=share)
+
 ## Introduction
 This guide provides instructions and examples for using the Raspberry Pi Pico development board with the latest version of Thonny IDE. The steps include firmware updates, uploading font files, and the ST7789 driver, as well as downloading example programs.
 
